@@ -7,3 +7,6 @@ import Swift
 import _Concurrency
 import _StringProcessing
 @_exported import frame
+public struct SDK {
+  public static func printToLog()
+}
