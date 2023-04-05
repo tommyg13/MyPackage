@@ -3,6 +3,7 @@
 // swift-module-flags: -target x86_64-apple-ios16.1-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name frame
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import Foundation
+import SocketIO
 import Swift
 import _Concurrency
 import _StringProcessing

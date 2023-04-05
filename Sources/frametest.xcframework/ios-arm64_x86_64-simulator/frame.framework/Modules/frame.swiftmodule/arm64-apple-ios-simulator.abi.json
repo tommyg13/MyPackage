@@ -15,6 +15,13 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "SocketIO",
+        "printedName": "SocketIO",
+        "declKind": "Import",
+        "moduleName": "frame"
+      },
+      {
         "kind": "TypeDecl",
         "name": "SDK",
         "printedName": "SDK",
