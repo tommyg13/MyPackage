@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import SocketIO
 
 public struct TestS{
     public static func testFun(){
